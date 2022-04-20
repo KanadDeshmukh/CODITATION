@@ -1,6 +1,6 @@
 # CODITATION
 Game Of Connect Four
-Submission for assignment task for Coditation 
+Assignment submission for Coditation
 ### Requirments:
 Python 3 
 Run using command line by using this command: **Python connect.py**
